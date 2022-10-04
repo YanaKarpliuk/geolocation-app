@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/geolocation-app/static/css/main.4ca5a78b.css",
+    "main.js": "/geolocation-app/static/js/main.3a25d1c3.js",
+    "static/media/Vector.svg": "/geolocation-app/static/media/Vector.b4b3487ff98955bf435f37e47c3881a3.svg",
+    "index.html": "/geolocation-app/index.html",
+    "main.4ca5a78b.css.map": "/geolocation-app/static/css/main.4ca5a78b.css.map",
+    "main.3a25d1c3.js.map": "/geolocation-app/static/js/main.3a25d1c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ca5a78b.css",
+    "static/js/main.3a25d1c3.js"
+  ]
+}
